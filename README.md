@@ -1,16 +1,21 @@
-### Hi there 👋
+[![Noodle's GitHub](https://github-readme-stats.vercel.app/api?username=Noodle-1337&count_private=true&show_icons=true)](https://github.com/Noodle-1337/)
 
-<!--
-**Noodle-1337/Noodle-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Languages you'll see here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+Fameworks I work with:
+
+![Flask](https://img.shields.io/badge/flask-%2300599C.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/bootstrap5-%2300599C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+Need help? Contact me:
+
+[![Discord](https://img.shields.io/badge/Atom%20Auth%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DDUcysQxtF)
