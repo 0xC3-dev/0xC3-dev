@@ -18,5 +18,3 @@ About me:
 * ❤️ Windows Desktop Enviorment
 * Dear imgui Framework Wizard 🧙
 * ❓'s -> Ask me here 🔽
-
-[![Discord](https://img.shields.io/badge/Atom%20Auth%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DDUcysQxtF)
