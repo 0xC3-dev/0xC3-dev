@@ -1,4 +1,4 @@
-[![0xC3's GitHub](https://github-readme-stats.vercel.app/api?username=0xC3&count_private=true&show_icons=true&theme=dracula)](https://github.com/0xC3-dev/)
+[![0xC3's GitHub](https://github-readme-stats.vercel.app/api?username=0xC3-dev&count_private=true&show_icons=true&theme=dracula)](https://github.com/0xC3-dev/)
 
 
 Main Languages I write in:
