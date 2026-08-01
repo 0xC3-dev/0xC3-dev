@@ -1,20 +1,14 @@
-[![0xC3's GitHub](https://github-readme-stats.vercel.app/api?username=0xC3-dev&count_private=true&show_icons=true&theme=dracula)](https://github.com/0xC3-dev/)
+<h2>Current Projects</h2>
 
+- **BudgetNow**: A lightweight and user-friendly desktop application designed to help you manage your finances effectively. Stay tuned for more updates once the project goes public!
 
-Main Languages I write in:
+Feel free to check out my [pinned repositories](https://github.com/0xC3-dev?tab=repositories&type=pinned) for other exciting projects I've worked on.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=grey)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=ff69b4)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h2>Future Plans</h2>
 
-Frameworks I use:
+- **Discord Alternative**: Developing a competitor to Discord. Seem a bit ambitious? Why not dream big...
+- **Single Player Game Tools**: Building tools that just make single-player and co-op games way more fun to play, similar to my [BO3Z_Tool](https://github.com/0xC3-dev/BO3Z_Tool).
 
-![imgui](https://img.shields.io/badge/-imgui-blue?style=for-the-badge&logoColor=white&link=https://github.com/ocornut/imgui&link=https://github.com/ocornut/imgui)
-![FastAPI](https://img.shields.io/badge/fastapi-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+<h2>About Me</h2>
 
-About me:
-
-* Software Engineer 🖥️
-* ❤️ Windows Desktop Enviorment
-* Dear imgui Framework Wizard 🧙
-* ❓'s -> Ask me here 🔽
+I'm a passionate software engineer with a strong liking for desktop applications, particularly in the Windows environment. My expertise lies in the C++ language which is what I spend 95% of my time writing in. I enjoy building efficient, user-friendly apps containing a wide range of use cases. Feel free to reach out if you have any questions or want collaborate on exciting projects!
